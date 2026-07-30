@@ -1,12 +1,13 @@
 :root {
-  --paper: #f4f0e8;
-  --paper-deep: #ece7db;
-  --ink: #141310;
-  --ink-soft: #4c4a43;
-  --ink-faint: #8a877c;
-  --line: rgba(20, 19, 16, 0.16);
-  --line-strong: rgba(20, 19, 16, 0.55);
-  --accent: #1d3af2;
+  --paper: #000000;
+  --paper-deep: #0a0a0a;
+  --ink: #e0f0eb;
+  --ink-soft: #8cc0b0;
+  --ink-faint: #5a8a7a;
+  --line: rgba(140, 192, 176, 0.15);
+  --line-strong: rgba(140, 192, 176, 0.35);
+  --accent: #00d4aa;
+  --accent-dim: #006d6d;
   --serif: 'Fraunces', Georgia, serif;
   --sans: 'Inter', system-ui, sans-serif;
   --mono: 'IBM Plex Mono', ui-monospace, monospace;

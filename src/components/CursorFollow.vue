@@ -105,14 +105,14 @@ onUnmounted(() => {
   width: 6px;
   height: 6px;
   margin: -3px 0 0 -3px;
-  background: #e8e4da;
+  background: #00d4aa;
 }
 
 .c-ring {
   width: 34px;
   height: 34px;
   margin: -17px 0 0 -17px;
-  border: 1px solid rgba(232, 228, 218, 0.85);
+  border: 1px solid rgba(0, 212, 170, 0.6);
   transition: opacity 0.25s ease;
 }
 .c-ring::after {
@@ -137,7 +137,7 @@ onUnmounted(() => {
   width: 58px;
   height: 58px;
   margin: -29px 0 0 -29px;
-  border-color: rgba(232, 228, 218, 1);
+  border-color: rgba(0, 212, 170, 1);
 }
 .c-ring.press {
   width: 26px;

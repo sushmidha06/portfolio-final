@@ -86,10 +86,10 @@ function init() {
 
   const count = geo.attributes.position.count
   const colors = new Float32Array(count * 3)
-  const ink = [0.11, 0.1, 0.08]
-  const cobalt = [0.114, 0.227, 0.95]
+  const ink = [0.0, 0.0, 0.0]
+  const teal = [0.0, 0.6, 0.4]
   for (let i = 0; i < count; i++) {
-    const c = Math.random() < 0.075 ? cobalt : ink
+    const c = Math.random() < 0.08 ? teal : ink
     colors[i * 3] = c[0]
     colors[i * 3 + 1] = c[1]
     colors[i * 3 + 2] = c[2]
