@@ -12,7 +12,7 @@ export const profile = {
   tagline:
     'B.Tech Artificial Intelligence & Data Science student who loves turning ideas into intelligent, production-ready products — from agentic AI copilots to smart-city platforms.',
   email: 'msushmidhasush@gmail.com',
-  phone: '+91 6385263089',
+  phone: '+91 8428195740',
   github: 'https://github.com/sushmidha06',
   linkedin: 'https://www.linkedin.com/in/sushmidha06/',
   leetcode: 'https://leetcode.com/u/msushmidha',
